@@ -1,2 +1,4 @@
 # cicd-pipeline
-An experimental repository to learn how CI/CD pipelines are set for CS453 course
+**_Bilkent University CS453 Spring 2024 CI/CD Homework_**
+
+An experimental repository to learn CI/CD pipelines
